@@ -9,7 +9,7 @@
 >
 	<svelte:fragment slot="lead">
 		<a href="/" class="flex items-center space-x-4">
-			<img src="/images/logo.png" class="invert-[0.9] dark:invert-0 w-[32px] aspect-square" alt="logo" />
+			<img src="/images/logo.png" class="w-[32px] aspect-square" alt="logo" />
 			<h1 class="hidden md:block !text-base uppercase">Become Human</h1>
 		</a>
 	</svelte:fragment>
