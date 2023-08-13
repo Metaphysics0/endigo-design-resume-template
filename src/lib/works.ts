@@ -19,7 +19,7 @@ export const works: Record<string, IWork> = {
 				url: 'https://songsterr-downloader.com',
 				coords: { x: 113, y: 102 },
 				accent: '#242c46',
-				thumbnail: `${cdnBaseUrl}/2023/songsterr-downloader/img_2.png`,
+				thumbnail: `${cdnBaseUrl}/2023/songsterr-downloader/logo.png`,
 				videos: [],
 				screenshots: [
 					{ src: `${cdnBaseUrl}/2023/songsterr-downloader/demo.gif`, caption: 'Search Functionality' }, // caption: ''
@@ -55,7 +55,7 @@ export const works: Record<string, IWork> = {
 				technology: `SvelteKit, PicoCSS, TypeScript, MongoDB, Prisma + Prisma Cloud, Cloudflare CRON jobs, Twilio, Vercel Edge network`,
 				url: 'https://accountability-texter.vercel.app/start',
 				coords: { x: 0, y: 0 },
-				accent: '#242c46',
+				accent: '#88bd68',
 				thumbnail: `${cdnBaseUrl}/2023/accountability-texter/dude.png`,
 				videos: [{ src: 'https://www.youtube.com/embed/kyPzV8m9wQ8', caption: 'Tech Walkthrough' }],
 				screenshots: [{ src: `${cdnBaseUrl}/2023/accountability-texter/img_1.png`, caption: 'Form Flow' }]
@@ -70,8 +70,8 @@ export const works: Record<string, IWork> = {
 				technology: `React, Next.js 13, TypeScript, Tailwind, Vercel`,
 				url: 'https://choose-your-superhero.vercel.app/',
 				coords: { x: 0, y: 0 },
-				accent: '#242c46',
-				thumbnail: `${cdnBaseUrl}/2023/superhero-faceoff/marvel.jpeg`,
+				accent: '#68d2fc',
+				thumbnail: `${cdnBaseUrl}/2023/superhero-faceoff/superhero.png`,
 				videos: [],
 				screenshots: [
 					{ src: `${cdnBaseUrl}/2023/superhero-faceoff/img_1.png`, caption: 'Form Flow' },
