@@ -95,7 +95,7 @@ export const works: Record<string, IWork> = {
 				url: 'https://www.youtube.com/channel/UCX3N9NavUuYjBPwVOv5I3Nw',
 				coords: { x: 29, y: 101 },
 				accent: '#34d399',
-				thumbnail: `${cdnBaseUrl}/2022/youtube/logo-3.jpeg`,
+				thumbnail: `${cdnBaseUrl}/2022/youtube/thumb-2.png`,
 				videos: [
 					{ src: 'https://www.youtube.com/embed/TZe8ozKkOGE', caption: 'SvelteKit tutorial 1' },
 					{ src: 'https://www.youtube.com/embed/3ukcPFHLv-k', caption: 'Bun Scripting' },
